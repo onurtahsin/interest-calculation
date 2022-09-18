@@ -27,10 +27,12 @@ body {
   height: 3rem;
   /* margin: 0.5rem; */
   /* filter: none !important; */
+  border: none !important;
 }
 .btn-primary:hover {
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
   background-color: #dc3545 !important;
+  border: none !important;
 }
 
 .triple {
